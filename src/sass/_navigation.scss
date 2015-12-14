@@ -1,0 +1,23 @@
+.header {
+  background-color: white;
+  height: 100px;
+  .row {
+    height: 100%;
+  }
+}
+
+.header__links {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  a {
+    flex: 1;
+  }
+}
+
+.header__logo {
+  margin: 0;
+  line-height: 100px;
+}
