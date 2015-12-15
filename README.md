@@ -20,7 +20,8 @@ Mp3文件加载成功后可以点击下方播放按钮开始练习
     * START:DASH!!
 
 ## 加入我们
-![joinus](/images/joinus.png)
+![joinus](/images/joinus.png)         
+
 * 程序开发
     * [Github组织页面](https://github.com/LoveCallProject)
 * call表制作(json)
