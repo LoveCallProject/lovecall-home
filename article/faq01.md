@@ -11,7 +11,7 @@ date: 2016/01/02 22:10
 ---
 
 如下图
-![errorPic]()
+![errorPic](http://7xn38i.com1.z0.glb.clouddn.com/lc_errorpic.jpg)
 这是因为您的浏览器不支持本应用的一个核心函数
 请尝试更新浏览器或者使用火狐、chrome
     
